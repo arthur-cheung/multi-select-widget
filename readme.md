@@ -1,5 +1,5 @@
-# Front End Template
-A template for a front end project.
+# Multi Select Widget
+A widget for multi seelct dropdown
 ## Installation
 run `npm install`
 
