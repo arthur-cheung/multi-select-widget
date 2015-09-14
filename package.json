@@ -1,10 +1,14 @@
 {
-  "name": "front_end_playground",
+  "name": "multi_select_widget",
   "version": "0.0.1",
-  "description": "Playground for Arthur's testing",
+  "description": "Multi Select Widget",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arthur-cheung/multi-select-widget.git"
   },
   "author": "Arthur Cheung",
   "license": "ISC",
